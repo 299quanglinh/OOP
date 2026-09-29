@@ -1,0 +1,11 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE and editor settings
+.vscode/
+.vs/
+*.swp
+*.lock
